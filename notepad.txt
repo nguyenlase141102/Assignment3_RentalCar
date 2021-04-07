@@ -1,0 +1,3 @@
+Chinh được search , search không nằm trong khoảng ngày thuê thì cho hiện
+chỉnh được add cùng 1 xe trên cùng 1 loại sản phẩm
+chọn ngày thuê xe hợp lý trong cart 
